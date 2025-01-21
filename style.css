@@ -1,0 +1,32 @@
+*{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main-title{
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.intro-paragraph{
+    font-style: italic;
+    line-height: 1.5px;
+}
+.content-paragraph{
+    text-transform: uppercase;
+
+}
+#em{
+    font-weight: bold;
+}
+#bold{
+    font-weight: bold;
+}
+.nav-link{
+    color: forestgreen;
+    text-decoration: solid;
+}
+.color-box{
+    text-shadow: 2px; 
+    color: rgba(0, 0, 0, 0.3)
+}
